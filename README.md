@@ -1,4 +1,5 @@
-# EngSoftware - Arquiteturas de Frontend e Backend
+# ToDoApp - EngSoftware - Arquiteturas de Frontend e Backend
+Autores: Yasmim Rodrigues, Miller Monteiro, Isaque Oliveira e Kevin Valentim.
 
 Este repositorio contem tres implementacoes React (MVC, MVP e MVVM) usando um backend local unico com dois modos:
 - REST (pull) para atualizacao manual.
@@ -15,10 +16,6 @@ Este repositorio contem tres implementacoes React (MVC, MVP e MVVM) usando um ba
 |-- /backend
 |-- /evidencias
 |-- /relatorio
-|-- .dockerignore
-|-- .env.docker.example
-|-- .gitignore
-|-- docker-compose.yml
 |-- README.md
 ```
 
@@ -121,3 +118,4 @@ src/
 - `evidencias/mvpIDE.jpg`
 - `evidencias/mvvmIDE.jpg`
 - `evidencias/reativoIDE.jpg`
+
